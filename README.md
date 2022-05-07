@@ -1,7 +1,7 @@
 # Robot-Assembling
 Robot Assembling along a boundary in continuous domain
 
-Read the Report to get insight about this project , Algorithm and code.
+Read the Report.pdf to get insight about this project , Algorithm and code.
 
 
 How to use it ?
