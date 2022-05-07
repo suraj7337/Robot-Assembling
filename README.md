@@ -4,7 +4,7 @@ Robot Assembling along a boundary in continuous domain
 Read the Report.pdf to get insight about this project , Algorithm and code.
 
 
-How to use it ?
+## How to use it ?
 
 Make a folder and add all the three .py file to it.
 
@@ -24,3 +24,5 @@ Input , Output are the sample input , output for this project respectively.
 intial_snapshot is a figure to represent how robot and obstacle are in 2d plane intially
 
 while final_snapshot represent the final position of robot and obstacle.
+
+This project is done under the guidance of [Deepanwita Das ma'am](https://nitdgp.ac.in/department/computer-science-engineering/faculty-1/deepanwita-das).
